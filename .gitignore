@@ -1,0 +1,13 @@
+
+/Pixills.Tools.Compression.Gzip.Cmd/obj
+/Pixills.Tools.Compression.Gzip.Cmd/bin
+/Pixills.Tools.Compression.ncrunchsolution.user
+/Pixills.Tools.Compression.sln
+/Pixills.Tools.Compression.suo
+/Pixills.Tools.Compression/obj
+/Pixills.Tools.Compression/bin
+_ReSharper.Compression
+/*.ncrunchsolution
+/*.sln
+Compression.ncrunchsolution.user
+Compression.suo
